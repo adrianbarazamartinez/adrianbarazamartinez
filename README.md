@@ -31,7 +31,7 @@ Here are some of the projects I've worked on:
    - ![Project Image](https://cdn.prod.website-files.com/63d926b37ec0d886c2d5d538/668ff9252106f0fd3889f779_Pong.jpeg)
 
 2. **Text To Speech**: The idea of this project is that by providing it with a URL of an article, it converts it from text to speech.
-   - [Repository Link](https://github.com/adrianbarazamartinez/Python-Projects/tree/main/TextoAVoz)
+   - [Repository Link](https://github.com/adrianbarazamartinez/Python-Projects/tree/main/TextoAVoz){:target="_blank"}
 
 3. **Youtube Random Alarm Clock**: The idea of this project is that you set an alarm for a specific time, the alarm clock will choose a random YouTube link from the text file and play it.
    - [Repository Link](https://github.com/adrianbarazamartinez/Python-Projects/tree/main/RelojDespertador)
