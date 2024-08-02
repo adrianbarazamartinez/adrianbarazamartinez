@@ -27,7 +27,7 @@ Here are some of the technologies and tools I work with:
 Here are some of the projects I've worked on:
 
 1. **Arcade Pong Game**: A small project about the classic Pong Game
-   - [Repository Link](https://github.com/adrianbarazamartinez/Python-Projects/tree/main/JuegoArcadePong)
+   - <a href="https://github.com/adrianbarazamartinez/Python-Projects/tree/main/JuegoArcadePong" target="_blank">Repository Link</a>
    - ![Project Image](https://cdn.prod.website-files.com/63d926b37ec0d886c2d5d538/668ff9252106f0fd3889f779_Pong.jpeg)
 
 2. **Text To Speech**: The idea of this project is that by providing it with a URL of an article, it converts it from text to speech.
