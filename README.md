@@ -7,7 +7,7 @@ Hi there! I'm <strong>Adrian Baraza Martínez</strong>, I'm a <strong>Mechanical
 ---
 ## :stuck_out_tongue_winking_eye: About Me :stuck_out_tongue_winking_eye:
 
-- 💻 I’m currently working on Python Projets, HTML Projects, Personal Projects...
+- 💻 I’m currently working on Python Projets, HTML/CSS/JavaScript Projects, Personal Projects...
 - 🌱 I’m currently learning a Master's Degree in Full Stack Web Development
 - 👀 I’m looking to work as Full Stack Web Developer
 - 📫 How to reach me: adrianbaraza100@gmail.com
@@ -17,7 +17,7 @@ Hi there! I'm <strong>Adrian Baraza Martínez</strong>, I'm a <strong>Mechanical
 
 Here are some of the technologies and tools I work with:
 
-- **Languages**: PSeInt, Python (OOP,SOLID Principles), HTML
+- **Languages**: PSeInt, Python (OOP,SOLID Principles), HTML, CSS, JavaScript
 - **Frameworks**: Django
 - **Databases**: MySQL
 - **Soft skills**: Good communication, Time management, Problem Solver, Ability to work under pressure, Self-motivation, Readiness to learn, Passion for Develop and eye for detail, Effective team player, Ambitious mind set, Proactive
