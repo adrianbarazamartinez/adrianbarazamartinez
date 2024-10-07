@@ -2,7 +2,7 @@
 ---
 Hi there! I'm <strong>Adrian Baraza Martínez</strong>, I'm a <strong>Mechanical Enginner</strong>, <strong>Surface Design Engineer</strong> and I'm a passionate <strong>Full Stack Web Developer</strong> with a knack for creating elegant solutions to complex problems. Welcome to my GitHub profile where I showcase my projects, share my knowledge, and collaborate with the community.
 
-![Profile Banner](https://media.licdn.com/dms/image/D4D16AQGiyEdWNBeN0Q/profile-displaybackgroundimage-shrink_350_1400/0/1688134830646?e=1727913600&v=beta&t=tquyOBjAXw8IkoVp9i9-l5t4jWH1sdhwdsYoAQ5ghMc)
+![Profile Banner](https://media.licdn.com/dms/image/v2/D4D16AQGiyEdWNBeN0Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1688134830646?e=1733961600&v=beta&t=o1Qolhm40M33vhItSbYEFeD3p-2v_4AYfuGr0SrGm54)
 
 ---
 ## :stuck_out_tongue_winking_eye: About Me :stuck_out_tongue_winking_eye:
