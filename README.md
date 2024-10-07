@@ -1,6 +1,6 @@
 # :fire: Welcome to My GitHub Profile! :fire:
 ---
-Hi there! I'm <strong>Adrian Baraza Martínez</strong>, I'm a <strong>Mechanical Enginner</strong>, <strong>Surface Design Engineer</strong> and I'm a passionate <strong>Full Stack Web Developer</strong> with a knack for creating elegant solutions to complex problems. Welcome to my GitHub profile where I showcase my projects, share my knowledge, and collaborate with the community.
+Hi there! I'm <strong>Adrian Baraza Martínez</strong>, I'm a passionate <strong>Full Stack Web Developer</strong> with a knack for creating elegant solutions to complex problems. Welcome to my GitHub profile where I showcase my projects, share my knowledge, and collaborate with the community.
 
 ![Profile Banner](https://media.licdn.com/dms/image/v2/D4D16AQGiyEdWNBeN0Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1688134830646?e=1733961600&v=beta&t=o1Qolhm40M33vhItSbYEFeD3p-2v_4AYfuGr0SrGm54)
 
