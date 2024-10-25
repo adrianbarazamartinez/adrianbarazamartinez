@@ -7,7 +7,7 @@ Hi there! I'm <strong>Adrian Baraza Martínez</strong>, I'm a passionate <strong
 ---
 ## :stuck_out_tongue_winking_eye: About Me :stuck_out_tongue_winking_eye:
 
-- 💻 I’m currently working on Python Projets, HTML/CSS/JavaScript Projects, Personal Projects...
+- 💻 I’m currently working on Python Projets, HTML/CSS/JavaScript Projects,NodeJS Projects, React Projects, Personal Projects...
 - 🌱 I’m currently learning a Master's Degree in Full Stack Web Development
 - 👀 I’m looking to work as Full Stack Web Developer
 - 📫 How to reach me: adrianbaraza100@gmail.com
@@ -18,8 +18,9 @@ Hi there! I'm <strong>Adrian Baraza Martínez</strong>, I'm a passionate <strong
 Here are some of the technologies and tools I work with:
 
 - **Languages**: PSeInt, Python (OOP,SOLID Principles), HTML, CSS, JavaScript
-- **Frameworks**: Django
-- **Databases**: MySQL
+- **Frameworks**: Django, NodeJS
+- **Libraries**: React
+- **Databases**: MySQL,MongoDB
 - **Soft skills**: Good communication, Time management, Problem Solver, Ability to work under pressure, Self-motivation, Readiness to learn, Passion for Develop and eye for detail, Effective team player, Ambitious mind set, Proactive
 ---
 ## :rocket: Projects :rocket:
@@ -35,6 +36,12 @@ Here are some of the projects I've worked on:
 
 3. **Youtube Random Alarm Clock**: The idea of this project is that you set an alarm for a specific time, the alarm clock will choose a random YouTube link from the text file and play it.
    - [Repository Link](https://github.com/adrianbarazamartinez/Python-Projects/tree/main/RelojDespertador)
+
+4. **HTML and CSS Projects**: Some websites projects I've done.
+   - [Repository Link](https://github.com/adrianbarazamartinez/HTML-CSS-Projects)
+
+5. **Ticketing System Backend NodeJS**: NodeJS API REST Project with a ticketing system.
+   - [Repository Link](https://github.com/adrianbarazamartinez/Backend-NodeJS-Project)
 
 ---
 ## :briefcase: Experience :briefcase:
