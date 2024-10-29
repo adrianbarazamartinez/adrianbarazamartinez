@@ -9,7 +9,6 @@ Hi there! I'm <strong>Adrian Baraza Martínez</strong>, I'm a <strong>Mechanical
 
 - 💻 I’m currently working on Python Projets, HTML/CSS/JavaScript Projects,NodeJS Projects, React Projects, Personal Projects...
 - 🌱 I’m currently learning a Master's Degree in Full Stack Web Development
-- 👀 I’m looking to work as Full Stack Web Developer
 - 📫 How to reach me: adrianbaraza100@gmail.com
 - ⚡ Fun fact: I love football, summer, the beach, the mountains and pizza
 ---
